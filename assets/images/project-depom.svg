@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" fill="none">
+  <rect width="800" height="480" rx="16" fill="#0B1120"/>
+  <rect x="24" y="24" width="752" height="432" rx="12" fill="#111827" stroke="#1E293B" stroke-width="2"/>
+  <!-- Top Bar -->
+  <rect x="24" y="24" width="752" height="48" rx="12" fill="#1E293B"/>
+  <circle cx="52" cy="48" r="6" fill="#EF4444"/>
+  <circle cx="72" cy="48" r="6" fill="#F59E0B"/>
+  <circle cx="92" cy="48" r="6" fill="#10B981"/>
+  <rect x="240" y="36" width="320" height="24" rx="6" fill="#0F172A"/>
+  <text x="400" y="52" fill="#94A3B8" font-family="Inter, system-ui, sans-serif" font-size="12" font-weight="600" text-anchor="middle">benimikincieldepom.com • Escrow Recommerce MVP</text>
+  
+  <!-- Left Panel: Seller Store & SaaS Tiers -->
+  <rect x="48" y="96" width="220" height="336" rx="10" fill="#0F172A" stroke="#1E293B" stroke-width="1.5"/>
+  <rect x="64" y="114" width="100" height="20" rx="4" fill="#0284C7" fill-opacity="0.2"/>
+  <text x="114" y="128" fill="#38BDF8" font-family="Inter, sans-serif" font-size="11" font-weight="700" text-anchor="middle">SATICI MAĞAZASI</text>
+  <text x="64" y="158" fill="#F8FAFC" font-family="Inter, sans-serif" font-size="15" font-weight="700"> %0 Komisyon Modeli</text>
+  <text x="64" y="178" fill="#94A3B8" font-family="Inter, sans-serif" font-size="11">Sabit Aylık SaaS Abonelik</text>
+  
+  <rect x="64" y="198" width="188" height="58" rx="8" fill="#1E293B"/>
+  <text x="78" y="220" fill="#E2E8F0" font-family="Inter, sans-serif" font-size="12" font-weight="600">Başlangıç / Standart</text>
+  <text x="78" y="240" fill="#38BDF8" font-family="Inter, sans-serif" font-size="14" font-weight="700">99 ₺ – 249 ₺ / ay</text>
+
+  <rect x="64" y="268" width="188" height="62" rx="8" fill="#0F52BA" fill-opacity="0.25" stroke="#0284C7" stroke-width="1"/>
+  <text x="78" y="290" fill="#F8FAFC" font-family="Inter, sans-serif" font-size="12" font-weight="700">Premium Mağaza VIP</text>
+  <text x="78" y="312" fill="#38BDF8" font-family="Inter, sans-serif" font-size="14" font-weight="700">499 ₺ / ay • Sınırsız</text>
+
+  <rect x="64" y="348" width="188" height="64" rx="8" fill="#064E3B" fill-opacity="0.35" stroke="#10B981" stroke-width="1"/>
+  <text x="78" y="372" fill="#34D399" font-family="Inter, sans-serif" font-size="11" font-weight="700">OTOMATİK TEST &amp; DENETİM</text>
+  <text x="78" y="394" fill="#ECFDF5" font-family="Inter, sans-serif" font-size="15" font-weight="700">41 / 41 Test Başarılı</text>
+
+  <!-- Center/Right Panel: Depo-Cash Escrow Engine -->
+  <rect x="288" y="96" width="464" height="196" rx="10" fill="#0F172A" stroke="#1E293B" stroke-width="1.5"/>
+  <text x="312" y="128" fill="#F8FAFC" font-family="Inter, sans-serif" font-size="15" font-weight="700">Depo-Cash Güvenli Havuz (Escrow) Akışı</text>
+  <text x="312" y="148" fill="#94A3B8" font-family="Inter, sans-serif" font-size="12">Atomik SQL Bakiye Kilidi &amp; Alıcı Teslimat Onayı</text>
+
+  <!-- 3 Nodes -->
+  <rect x="312" y="172" width="124" height="92" rx="8" fill="#1E293B" stroke="#334155"/>
+  <text x="374" y="198" fill="#38BDF8" font-family="Inter, sans-serif" font-size="11" font-weight="700" text-anchor="middle">1. SİPARİŞ &amp; KİLİT</text>
+  <text x="374" y="220" fill="#F8FAFC" font-family="Inter, sans-serif" font-size="12" font-weight="600" text-anchor="middle">wallet_pending</text>
+  <text x="374" y="242" fill="#94A3B8" font-family="Inter, sans-serif" font-size="10" text-anchor="middle">Double-Spend Korumalı</text>
+
+  <path d="M442 218 H464" stroke="#38BDF8" stroke-width="2" stroke-dasharray="3 3"/>
+
+  <rect x="468" y="172" width="124" height="92" rx="8" fill="#1E293B" stroke="#334155"/>
+  <text x="530" y="198" fill="#F59E0B" font-family="Inter, sans-serif" font-size="11" font-weight="700" text-anchor="middle">2. KARGO &amp; KONTROL</text>
+  <text x="530" y="220" fill="#F8FAFC" font-family="Inter, sans-serif" font-size="12" font-weight="600" text-anchor="middle">Alıcı Denetimi</text>
+  <text x="530" y="242" fill="#94A3B8" font-family="Inter, sans-serif" font-size="10" text-anchor="middle">Uyuşmazlık Kalkanı</text>
+
+  <path d="M598 218 H620" stroke="#10B981" stroke-width="2" stroke-dasharray="3 3"/>
+
+  <rect x="624" y="172" width="108" height="92" rx="8" fill="#064E3B" fill-opacity="0.4" stroke="#10B981"/>
+  <text x="678" y="198" fill="#34D399" font-family="Inter, sans-serif" font-size="11" font-weight="700" text-anchor="middle">3. ONAY &amp; AKTARIM</text>
+  <text x="678" y="220" fill="#F8FAFC" font-family="Inter, sans-serif" font-size="12" font-weight="600" text-anchor="middle">Satıcı Cüzdanı</text>
+  <text x="678" y="242" fill="#A7F3D0" font-family="Inter, sans-serif" font-size="10" text-anchor="middle">IBAN Çekim Onayı</text>
+
+  <!-- Bottom Right: Tech Architecture -->
+  <rect x="288" y="308" width="464" height="124" rx="10" fill="#0F172A" stroke="#1E293B" stroke-width="1.5"/>
+  <text x="312" y="338" fill="#F8FAFC" font-family="Inter, sans-serif" font-size="14" font-weight="700">Uçtan Uca Teknoloji &amp; Güvenlik Katmanı</text>
+  
+  <rect x="312" y="356" width="96" height="32" rx="6" fill="#1E293B"/>
+  <text x="360" y="376" fill="#E2E8F0" font-family="Inter, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Python / Flask</text>
+  
+  <rect x="418" y="356" width="112" height="32" rx="6" fill="#1E293B"/>
+  <text x="474" y="376" fill="#E2E8F0" font-family="Inter, sans-serif" font-size="11" font-weight="600" text-anchor="middle">PostgreSQL &amp; SQLite</text>
+
+  <rect x="540" y="356" width="96" height="32" rx="6" fill="#1E293B"/>
+  <text x="588" y="376" fill="#E2E8F0" font-family="Inter, sans-serif" font-size="11" font-weight="600" text-anchor="middle">JWT &amp; OAuth2</text>
+
+  <rect x="646" y="356" width="86" height="32" rx="6" fill="#1E293B"/>
+  <text x="689" y="376" fill="#E2E8F0" font-family="Inter, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Docker / PWA</text>
+
+  <text x="312" y="412" fill="#64748B" font-family="Inter, sans-serif" font-size="11">OWASP Güvenlik Başlıkları • BOLA/IDOR İzolasyonu • Değiştirilemez Audit Log</text>
+</svg>

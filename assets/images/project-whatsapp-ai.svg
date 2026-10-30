@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 480" fill="none">
+  <rect width="800" height="480" rx="16" fill="#0B1120"/>
+  <rect x="24" y="24" width="752" height="432" rx="12" fill="#111827" stroke="#1E293B" stroke-width="2"/>
+  <text x="56" y="72" fill="#F8FAFC" font-family="Inter, sans-serif" font-size="18" font-weight="700">WhatsApp AI Agent &amp; Canlı Temsilci SaaS Platformu</text>
+  <text x="56" y="96" fill="#94A3B8" font-family="Inter, sans-serif" font-size="12">Multi-Tenant • Resmi Meta Cloud API v21.0 • Kurumsal RAG &amp; Otomatik İnsan Temsilci Devri</text>
+
+  <!-- Flow Nodes -->
+  <rect x="56" y="124" width="204" height="140" rx="10" fill="#0F172A" stroke="#1E293B"/>
+  <text x="76" y="154" fill="#34D399" font-family="Inter, sans-serif" font-size="12" font-weight="700">1. META CLOUD API v21.0</text>
+  <text x="76" y="180" fill="#CBD5E1" font-family="Inter, sans-serif" font-size="11">• HMAC-SHA256 İmza Kontrolü</text>
+  <text x="76" y="202" fill="#CBD5E1" font-family="Inter, sans-serif" font-size="11">• Idempotent Webhook Motoru</text>
+  <text x="76" y="224" fill="#CBD5E1" font-family="Inter, sans-serif" font-size="11">• 24 Saat Pencere &amp; KVKK</text>
+  <text x="76" y="244" fill="#94A3B8" font-family="Inter, sans-serif" font-size="10">DUR / STOP Otomatik Opt-Out</text>
+
+  <rect x="296" y="124" width="208" height="140" rx="10" fill="#0F172A" stroke="#0284C7"/>
+  <text x="316" y="154" fill="#38BDF8" font-family="Inter, sans-serif" font-size="12" font-weight="700">2. RAG &amp; VEKTÖR ARAMA</text>
+  <text x="316" y="180" fill="#CBD5E1" font-family="Inter, sans-serif" font-size="11">• Türkçe Alt-Kelime Hashing</text>
+  <text x="316" y="202" fill="#CBD5E1" font-family="Inter, sans-serif" font-size="11">• Kosinüs Vektör Benzerliği</text>
+  <text x="316" y="224" fill="#CBD5E1" font-family="Inter, sans-serif" font-size="11">• Deterministik Güven Eşiği</text>
+  <text x="316" y="244" fill="#38BDF8" font-family="Inter, sans-serif" font-size="10">Halüsinasyon Önleme Kalkanı</text>
+
+  <rect x="540" y="124" width="204" height="140" rx="10" fill="#0F172A" stroke="#1E293B"/>
+  <text x="560" y="154" fill="#F59E0B" font-family="Inter, sans-serif" font-size="12" font-weight="700">3. CANLI TEMSİLCİ DEVİR</text>
+  <text x="560" y="180" fill="#CBD5E1" font-family="Inter, sans-serif" font-size="11">• 3 Sütunlu Canlı Inbox &amp; CRM</text>
+  <text x="560" y="202" fill="#CBD5E1" font-family="Inter, sans-serif" font-size="11">• Otomatik AI Susturma Kilidi</text>
+  <text x="560" y="224" fill="#CBD5E1" font-family="Inter, sans-serif" font-size="11">• Kiracı (Tenant) İzolasyonu</text>
+  <text x="560" y="244" fill="#F59E0B" font-family="Inter, sans-serif" font-size="10">41 / 41 Otomatik Test Başarılı</text>
+
+  <rect x="56" y="290" width="688" height="134" rx="10" fill="#0F172A" stroke="#1E293B"/>
+  <text x="80" y="322" fill="#F8FAFC" font-family="Inter, sans-serif" font-size="14" font-weight="700">Kurumsal Çok Kiracılı (Multi-Tenant) Veritabanı ve Güvenlik Katmanı</text>
+  <text x="80" y="348" fill="#94A3B8" font-family="Inter, sans-serif" font-size="12">20+ İlişkisel Veri Modeli • RBAC Yetkilendirme • Token-Bucket Rate Limiting • Merkezi Audit Log</text>
+  <rect x="80" y="368" width="140" height="32" rx="6" fill="#1E293B"/>
+  <text x="150" y="388" fill="#E2E8F0" font-family="Inter, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Express / Node.js</text>
+  <rect x="234" y="368" width="140" height="32" rx="6" fill="#1E293B"/>
+  <text x="304" y="388" fill="#E2E8F0" font-family="Inter, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Prisma &amp; PostgreSQL</text>
+  <rect x="388" y="368" width="140" height="32" rx="6" fill="#1E293B"/>
+  <text x="458" y="388" fill="#E2E8F0" font-family="Inter, sans-serif" font-size="11" font-weight="600" text-anchor="middle">RAG Vector Engine</text>
+  <rect x="542" y="368" width="140" height="32" rx="6" fill="#1E293B"/>
+  <text x="612" y="388" fill="#E2E8F0" font-family="Inter, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Docker &amp; OWASP</text>
+</svg>

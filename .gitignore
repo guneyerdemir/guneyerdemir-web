@@ -1,0 +1,11 @@
+# OS & Editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.log
+
+# Root-level duplicate PDFs (clean ASCII copies are inside /cv/)
+/CV - Güney ERDEMİR-1.pdf
+/CV_Güney_Erdemir.pdf
