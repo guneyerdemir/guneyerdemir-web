@@ -1,7 +1,3 @@
-# Redirect root domain to www.guneyerdemir.com
-https://guneyerdemir.com/* https://www.guneyerdemir.com/:splat 301!
-
-# Convenience shortcuts
+# Relative URL redirects for Cloudflare Workers & Pages Static Assets
 /cv /cv/ats-cv.html 302
 /depom /projects/benim-ikinci-el-depom.html 302
-
