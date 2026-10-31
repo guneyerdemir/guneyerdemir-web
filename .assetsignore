@@ -2,5 +2,6 @@
 .gitignore
 .assetsignore
 wrangler.jsonc
+worker.js
 CV - Güney ERDEMİR-1.pdf
 CV_Güney_Erdemir.pdf
